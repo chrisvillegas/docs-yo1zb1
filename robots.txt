@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ou0q4b.indowin.cfd/sitemap.xml
